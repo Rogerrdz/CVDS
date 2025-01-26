@@ -6,7 +6,7 @@
  # Parte l
    1. Creamos una carpeta local el cual luego se va a convertir en nuestro repositorio local:
 
-      ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/Crear_Carpeta.png) 
+      ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/Crear_Carpeta_.png) 
 
 
       Tambien creamos un directorio de apoyo en donde encontraremos las imagenes a usar en este laboratorio la cual llamaremos "asssets":
