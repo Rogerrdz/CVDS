@@ -48,13 +48,9 @@
 
   4. Enlazamos otro correo con la cuenta de github en github.com:
 
-    
+     ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/emails.png)
 
-     Nos dirigimos al apartado de settings dentro de la cuenta:
-
-     Luego a Emails alli encontramos  las cuentas de correo enlazadas a  la cuentas de github
-
-     Alli añadimos una nueva cuenta de correo para mas tarde verificarla desde el mismo correo :
+     Alli añadimos una nueva cuenta de correo para mas tarde verificarla desde el mismo correo 
 
   5. Creamos un repositorio en blanco desde la pagina de git hub:
 
@@ -70,15 +66,15 @@
 
   6. Configuramos el repositorio local con el remoto :
 
-   ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/new_repository_1.png) 
+     ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/new_repository_1.png) 
     
-   usamos :
+     usamos :
+     
+     ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/confirmar_id_local.png)
    
-   ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/confirmar_id_local.png)
-   
-   implementando tendriamos :
+     implementando tendriamos :
 
-   ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/final.png)
+     ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/final.png)
      
   7. Subimos los cambios con los comandos investigados en el incizo 3:
 
