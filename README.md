@@ -58,6 +58,22 @@
 
      usamos :
 
+     implementando tendriamos :
+     
+  7. Subimos los cambios con los comandos investigados en el incizo 3:
+
+  8.Configuramos el correo electronico de manera local:
+
+  9.Por Ultimo subimos cambios para confirmar que todo este bien con el repositorio:
+
+  # Parte ll
+
+  # Parte lll
+
+  1. Hay una mejor forma de trabajar?
+
+     
+
      
 
      
