@@ -40,6 +40,8 @@
   cada commit conoce a su “padre” (parent commit), es decir, el commit inmediatamente anterior.
   El commit es la entidad básica en la que se basan los repository Git. 
 
+  ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/git_add_y_git_commit.png) 
+
   4. Enlazamos otro correo con la cuenta de github en github.com:
 
      Nos dirigimos al apartado de settings dentro de la cuenta:
