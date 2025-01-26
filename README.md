@@ -6,6 +6,8 @@
  # Parte l
    1. Creamos una carpeta local el cual luego se va a convertir en nuestro repositorio local:
 
+      ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/Crear_Carpeta.png) 
+
 
       Tambien creamos un directorio de apoyo en donde encontraremos las imagenes a usar en este laboratorio la cual llamaremos "asssets":
 
@@ -34,13 +36,13 @@
 
   Un commit in Git representa un snapshot (instantánea) del repository en un momento específico. Aunque esta definición puede parecer banal, vale la pena subrayar que:
 
-  a diferencia de otras version control system, el commit en Git no solo almacena las diferencias entre dos versiones sucesivas del contenido del directory, sino que guarda la instantánea (comprimida) del 
+  a diferencia de otras version control system, el commit en Git no solo almacena las diferencias entre dos versiones sucesivas del contenido del directory, sino que guarda la instantánea (comprimida) 
+  del 
   contenido de todos los archivos que formaban parte del repository en el momento del commit.
   si un archivo no cambia de contenido entre dos commit, no se almacena una nueva versión comprimida, sino que se pone una referencia al commit anterior.
   cada commit conoce a su “padre” (parent commit), es decir, el commit inmediatamente anterior.
   El commit es la entidad básica en la que se basan los repository Git. 
 
-  ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/git_add_y_git_commit.png) 
 
   4. Enlazamos otro correo con la cuenta de github en github.com:
 
