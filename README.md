@@ -73,19 +73,23 @@
    ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/new_repository_1.png) 
     
    usamos :
-   ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/confirmar_id_local.png)
-   implementando tendriamos :
    
+   ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/confirmar_id_local.png)
+   
+   implementando tendriamos :
+
+   ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/final.png)
      
   7. Subimos los cambios con los comandos investigados en el incizo 3:
 
-  
+  ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/add.png)
 
   8.Configuramos el correo electronico de manera local:
 
   ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/correo.8.png)
 
   9.Por Ultimo subimos cambios para confirmar que todo este bien con el repositorio:
+  
   ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/punto.9.png)
 
 # Parte II
