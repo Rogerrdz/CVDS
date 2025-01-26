@@ -11,10 +11,11 @@
 
       Tambien creamos un directorio de apoyo en donde encontraremos las imagenes a usar en este laboratorio la cual llamaremos "asssets":
 
-      
+      ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/assets.png) 
 
   2. Creamos un archivo tipo markdown para la Documentacion de este laboratorio este con el comando touch:
 
+     ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/readme_.png) 
 
   3. Investigamos para que sirven los comandos "git add" y "git commit -m "mensaje" " :
 
@@ -43,8 +44,11 @@
   cada commit conoce a su “padre” (parent commit), es decir, el commit inmediatamente anterior.
   El commit es la entidad básica en la que se basan los repository Git. 
 
+  ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/git_add_y_git_commit.png) 
 
   4. Enlazamos otro correo con la cuenta de github en github.com:
+
+    
 
      Nos dirigimos al apartado de settings dentro de la cuenta:
 
@@ -54,17 +58,24 @@
 
   5. Creamos un repositorio en blanco desde la pagina de git hub:
 
+     ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/create_github.png) 
+
      añadimos el README.md y dejamos el repositorio como publico para que toda persona pueda ver:
+     
+     ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/new_repository.png) 
 
      Ahora tenemos nuestro nuevo repositorio en blanco:
 
-  6. Configuramos el repositorio local con el remoto :
+     ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/new_repository_1.png) 
+
+  7. Configuramos el repositorio local con el remoto :
+     
 
      usamos :
 
      implementando tendriamos :
      
-  7. Subimos los cambios con los comandos investigados en el incizo 3:
+  8. Subimos los cambios con los comandos investigados en el incizo 3:
 
   8.Configuramos el correo electronico de manera local:
 
