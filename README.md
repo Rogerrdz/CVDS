@@ -2,7 +2,7 @@
 # Integrantes:
  - Camilo Andres Fernandez Diaz
  - Roger Alexander Rodriguez Abril
-# Respuestas:
+
  # Parte l
    1. Creamos una carpeta local el cual luego se va a convertir en nuestro repositorio local:
 
