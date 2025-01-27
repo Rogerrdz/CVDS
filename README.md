@@ -11,11 +11,11 @@
 
       Tambien creamos un directorio de apoyo en donde encontraremos las imagenes a usar en este laboratorio la cual llamaremos "asssets":
 
-      ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/assets.png) 
+      ![image](https://github.com/Rogerrdz/CVDS/blob/main/assets/assets.png) 
 
   2. Creamos un archivo tipo markdown para la Documentacion de este laboratorio este con el comando touch:
 
-     ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/readme_.png) 
+     ![image](https://github.com/Rogerrdz/CVDS/blob/main/assets/readme_.png) 
 
   3. Investigamos para que sirven los comandos "git add" y "git commit -m "mensaje" " :
 
@@ -44,49 +44,49 @@
   cada commit conoce a su “padre” (parent commit), es decir, el commit inmediatamente anterior.
   El commit es la entidad básica en la que se basan los repository Git. 
 
-  ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/git_add_y_git_commit.png) 
+  ![image](https://github.com/Rogerrdz/CVDS/blob/main/assets/git_add_y_git_commit.png) 
 
   4. Enlazamos otro correo con la cuenta de github en github.com:
 
-     ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/emails.png)
+     ![image](https://github.com/Rogerrdz/CVDS/blob/main/assets/emails.png)
 
      Alli añadimos una nueva cuenta de correo para mas tarde verificarla desde el mismo correo 
 
   5. Creamos un repositorio en blanco desde la pagina de git hub:
 
-     ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/create_github.png) 
+     ![image](https://github.com/Rogerrdz/CVDS/blob/main/assets/create_github.png) 
 
      añadimos el README.md y dejamos el repositorio como publico para que toda persona pueda ver:
      
-     ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/new_repository.png) 
+     ![image](https://github.com/Rogerrdz/CVDS/blob/main/assets/new_repository.png) 
 
      Ahora tenemos nuestro nuevo repositorio en blanco:
 
-     ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/new_repository_1.png) 
+     ![image](https://github.com/Rogerrdz/CVDS/blob/main/assets/new_repository_1.png) 
 
   6. Configuramos el repositorio local con el remoto :
 
-     ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/new_repository_1.png) 
+     ![image](https://github.com/Rogerrdz/CVDS/blob/main/assets/new_repository_1.png) 
     
      usamos :
      
-     ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/confirmar_id_local.png)
+     ![image](https://github.com/Rogerrdz/CVDS/blob/main/assets/confirmar_id_local.png)
    
      implementando tendriamos :
 
-     ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/final.png)
+     ![image](https://github.com/Rogerrdz/CVDS/blob/main/assets/final.png)
      
   7. Subimos los cambios con los comandos investigados en el incizo 3:
 
-  ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/add.png)
+  ![image](https://github.com/Rogerrdz/CVDS/blob/main/assets/add.png)
 
   8.Configuramos el correo electronico de manera local:
 
-  ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/correo.8.png)
+  ![image](https://github.com/Rogerrdz/CVDS/blob/main/assets/correo.8.png)
 
   9.Por Ultimo subimos cambios para confirmar que todo este bien con el repositorio:
   
-  ![image](https://github.com/Rogerrdz/CVDS/tree/main/assets/punto.9.png)
+  ![image](https://github.com/Rogerrdz/CVDS/blob/main/assets/punto.9.png)
 
 # Parte II
 
